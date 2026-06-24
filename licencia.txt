@@ -1,0 +1,15 @@
+LICENCIA DE USO - DRAGOVAPE
+
+Copyright (c) 2026 Dev Tech. Todos los derechos reservados.
+
+1. CONCESIÓN DE LICENCIA: 
+Se concede al usuario una licencia limitada, revocable y no exclusiva para usar el software "Dragovape" únicamente mientras se cumplan los términos de pago o acuerdo comercial estipulados entre las partes.
+
+2. DESACTIVACIÓN REMOTA:
+El titular del software se reserva el derecho de desactivar remotamente el acceso, funcionalidad o ejecución del programa en cualquier momento si el usuario incumple el acuerdo de pago, sin necesidad de previo aviso. Esta desactivación puede incluir el bloqueo total de la interfaz y la imposibilidad de ejecutar el software.
+
+3. ACEPTACIÓN:
+Al instalar y usar este software, el usuario acepta expresamente esta cláusula de desactivación remota y renuncia a reclamar daños derivados de la misma.
+
+4. PROHIBICIÓN DE INGENIERÍA INVERSA:
+Queda prohibido descompilar, modificar o eludir el sistema de desactivación remota.
